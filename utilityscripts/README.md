@@ -1,0 +1,2 @@
+## Utility scripts
+This is a miscellaneous folder containing potentially useful code, reference code, old "disposable" scripts made during development and retained for reference. These may (or may not) be used again.
